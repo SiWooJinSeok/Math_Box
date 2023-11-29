@@ -9,3 +9,6 @@ def mulltiply(a,b):
 
 def divade(a,b):
     return a/b
+
+def say_hello():
+    print('hello')
