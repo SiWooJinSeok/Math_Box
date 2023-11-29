@@ -6,3 +6,6 @@ def subtract(a, b):
 
 def mulltiply(a,b):
     return a*b
+
+def divade(a,b):
+    return a/b
