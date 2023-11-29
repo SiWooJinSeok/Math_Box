@@ -9,3 +9,6 @@ def mulltiply(a,b):
 
 def divade(a,b):
     return a/b
+
+def get_Median(a,b):
+    return (a+b)/2
